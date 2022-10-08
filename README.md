@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabeel, aka zezs.
 - 👀 I'm pursuing master in Computer science at SRH hochshule Heidelberg, Germany
-- 🌱 I’m currently learning Python, Flask, API, DSA
+- 🌱 I’m currently learning C++, Python, Flask, API, DSA, ML.
 - 📫 How to reach me @ azenabeel@gmail.com/ my.version.ctrl@gmail.com
 
 <!---
