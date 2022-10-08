@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nabeel, pursuing master in Computer science at SRH hochshule Heidelberg, Germany. 
-- 👀 I’m interested in Learning new tech
+- 👋 Hi, I’m Nabeel, aka zezs.
+- 👀 I'm pursuing master in Computer science at SRH hochshule Heidelberg, Germany
 - 🌱 I’m currently learning Python, Flask, API, DSA
 - 📫 How to reach me @ aznabeel@gmail.com/ my.version.ctrl@gmail.com
 
