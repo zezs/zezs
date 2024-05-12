@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/synabeel/) 
-[![HuggingFace](🤗)](https://huggingface.co/azenabeel) 
+[![HuggingFace](https://raw.githubusercontent.com/danny-avila/LibreChat/d73ea8e1f27db29e7d5478a7a01729d72cd44c79/client/public/assets/huggingface.svg)](https://huggingface.co/azenabeel) 
 
 
 # 💻 Tech Stack:
