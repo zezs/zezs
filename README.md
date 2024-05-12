@@ -6,8 +6,7 @@
 - 📫 You can reach me at azenabeel@gmail.com. Feel free to connect!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/synabeel/) \n
-HuggingFace: https://huggingface.co/azenabeel 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/synabeel/)
 
 
 # 💻 Tech Stack:
